@@ -30,6 +30,7 @@ public class Main
 
         try
         {
+            //
             // Get local graphics environment
             GraphicsEnvironment env = GraphicsEnvironment.getLocalGraphicsEnvironment();
 
